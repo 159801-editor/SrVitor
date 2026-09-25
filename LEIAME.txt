@@ -1,0 +1,24 @@
+SrVitor Visual - portfolio
+
+Arquivo principal: index.html (site completo em um unico arquivo,
+com HTML, CSS e JavaScript juntos).
+
+COMO SUBIR NO GITHUB
+1. Crie um repositorio novo no GitHub (ex: srvitor-visual).
+2. Va em "Add file" > "Upload files".
+3. Arraste o index.html para dentro (mantenha esse nome).
+4. Confirme o commit.
+
+COMO PUBLICAR A PARTIR DO GITHUB
+- Vercel: importe o repositorio em vercel.com/new. Nao precisa
+  configurar build, e um site estatico.
+- GitHub Pages: no repositorio, va em Settings > Pages > Branch,
+  selecione "main" e pasta "/ (root)". O link fica
+  https://seuusuario.github.io/nome-do-repositorio/
+
+COMO EDITAR DEPOIS
+Abra o index.html em um editor de texto e procure por:
+- CONFIG   -> WhatsApp, Instagram, TikTok e e-mail
+- PROJECTS -> videos (link do Vimeo + categoria: cinematograficos,
+  edits, motion, reels)
+- SERVICES -> servicos e precos (price, unit, note)
