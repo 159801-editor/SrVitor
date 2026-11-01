@@ -1,7 +1,8 @@
 SrVitor Visual - portfolio
 
-Arquivo principal: index.html (site completo em um unico arquivo,
-com HTML, CSS e JavaScript juntos).
+Arquivo principal: index.html (HTML, CSS e JavaScript juntos).
+Imagens: pasta assets/ (assets/thumbs tem a capa de cada video).
+Ao subir o site, envie o index.html e a pasta assets juntos.
 
 COMO SUBIR NO GITHUB
 1. Crie um repositorio novo no GitHub (ex: srvitor-visual).
@@ -19,6 +20,7 @@ COMO PUBLICAR A PARTIR DO GITHUB
 COMO EDITAR DEPOIS
 Abra o index.html em um editor de texto e procure por:
 - CONFIG   -> WhatsApp, Instagram, TikTok e e-mail
-- PROJECTS -> videos (link do Vimeo + categoria: cinematograficos,
-  edits, motion, reels)
+- PROJECTS -> videos: P(id do Vimeo, categoria, duracao, 1 se horizontal)
+  categorias: cinematograficos, edits, motion, reels
+  a capa fica em assets/thumbs/ID.webp
 - SERVICES -> servicos e precos (price, unit, note)
